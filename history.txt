@@ -1,0 +1,309 @@
+    1  python --version
+    2  ls
+    3  ls command_line_course linux_bootcamp
+    4  ls /data bioinfo.course.data command_line_course galaxy lost+found refs
+    5  ls /etc/perl CPAN Net XML
+    6  ls /data
+    7  ls /
+    8  ls
+    9  ls /anaconda3
+   10  ls /etc/perl
+   11  ls /Searches
+   12  ls /videos
+   13  ls my documents
+   14  ls /qoutation.doc
+   15  ls /python
+   16  ls /
+   17  pwd
+   18  mkdir Learning_unix
+   19  ls
+   20  cd Learning_unix
+   21  mkdir Outer_directory
+   22  cd Outer_directory
+   23  mkir Inner_Directory
+   24  mkdir Inner_directory
+   25  cd Inner_directory
+   26  cd home
+   27  cd Lebogang
+   28  pwd
+   29  cd lebogang
+   30  cd users
+   31  cd /lebogang
+   32  cd c
+   33  cd Learning_unix
+   34  ls /
+   35  ls
+   36  cd /c/users/lebogang
+   37  cd Learning_unix/
+   38  cd ..
+   39  ls /lebogang
+   40  ls 
+   41  ls learning_unix
+   42  cd learning_unix
+   43  cd ../../users
+   44  cd ../../../users
+   45  cd lebogang
+   46  cd learning_unix
+   47  cd /users
+   48  cd /users/lebogang
+   49  cd ../../../users
+   50  cd /learning_unix
+   51  cd ../../../learning_unix
+   52  cd /lebogang/learning_unix
+   53  cd /lebogang/learning_unix/
+   54  cd /lebogang/
+   55  cd lebogang/learning_unix/
+   56  cd /
+   57  pwd
+   58  cd -
+   59  cd
+   60  cd c
+   61  cd /c
+   62  cd
+   63  cd -/learning_unix
+   64  cd /
+   65  cd -/Learning_unix
+   66  cd
+   67  cd -learning_unix
+   68  cd ~/learning_unix
+   69  cd ~learning_unix/Outer_directory/
+   70  cd ~/learning_unix/outer_directory/
+   71  ls ../..
+   72  cd ..
+   73  ls -l /lebogang
+   74  cd ~/lebogang
+   75  cd ~/lebogang/
+   76  cd ..
+   77  cd users
+   78  cd /users
+   79  cd ~/users
+   80  ls
+   81  pwd
+   82  ls -1 /lebogang
+   83  ls -l /lebogang
+   84  ls -l
+   85  cd ..
+   86  ls -r
+   87  ls -l -t -r
+   88  ls -lh
+   89  man ls
+   90  man cd
+   91  cd ~/lebogang/learning_unix/outer_directory/
+   92  cd lebogang
+   93  cd ~/learning_unix/outer_directory/
+   94  rmdir inner_directory
+   95  cd ..
+   96  rmdir outer_directory
+   97  ls
+   98  cd ..
+   99  cd Learning_unix/
+  100  cd ..
+  101  cd ..
+  102  cd ..
+  103  [path]/etc/gitconfig
+  104  /etc/gitconfig
+  105  git config
+  106  --system
+  107  [--system]/etc/getconfig
+  108  cd users
+  109  cd lebogang
+  110  [path]/etc/gitconfig
+  111  /etc/gitconfig
+  112  .gitconfig
+  113  gitconfig
+  114  application
+  115  cd application
+  116  ls
+  117  cd appdata
+  118  ls
+  119  cd ..
+  120  cd documents
+  121  ls
+  122  cd ..
+  123  cd ..
+  124  cd ..
+  125  cd program files
+  126  ls
+  127  cd 'program files'
+  128  /etc/gitconfig
+  129  cd etc
+  130  cd /git/etc/gitconfig
+  131  cd git
+  132  cd etc
+  133  gitconfig
+  134  --system gitconfig
+  135  .gitconfig
+  136  /gitconfig
+  137  ls
+  138  gitconfig
+  139  gitconfig --global --edit
+  140  --global
+  141  git config --global --edit
+  142  git config --global user.name "Lebogang Machaba"
+  143  git config --global user.email mrmachaba@gmail.com
+  144  pwd
+  145  cd ..
+  146  cd c
+  147  cd /program files
+  148  cd /'program files'/git/
+  149  cd /'program files'
+  150  ls
+  151  cd 'program files'
+  152  git
+  153  cd git
+  154  cd etc
+  155  git config --global user.name "Lebogang Machaba"
+  156  git config --global user.email mrmachaba@gmail.com
+  157  .git/config
+  158  cd ../../../
+  159  cd users
+  160  cd lebogang
+  161  ls
+  162  cd desktop
+  163  git config --global core.editor "C:\Users\Lebogang\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Visual Studio Code"
+  164  git config --list
+  165  mkdir git-basic-exercises
+  166  cd git-basic-exercises/
+  167  ls -a
+  168  git init
+  169  ls a-
+  170  git status
+  171  touch README.md
+  172  ls a-
+  173  ls -a
+  174  git status
+  175  git add READ.md
+  176  git add README.md
+  177  git status
+  178  git re readme.md
+  179  git reset README.md
+  180  git status
+  181  git add README.md
+  182  git commit -m "initial commit"
+  183  git log
+  184  nano readme.md
+  185  cat readme.md
+  186  git status
+  187  git add readme.md
+  188  nano readme.md
+  189  cat readme.md
+  190  nano readme.md
+  191  cat README.md 
+  192  git status
+  193  git add readme.md
+  194  git commit -m "second commit"
+  195  git add README.md
+  196  git status
+  197  git commit -m "second commit"
+  198  git nano README.md
+  199  nano README.md 
+  200  git add README.md 
+  201  git commit -m "Third commit"
+  202  git log
+  203  git checkout  a276745f75194022946fe07bd6f8c779424bc4a8
+  204  cat README.md 
+  205  git checkout main
+  206  git checkout master
+  207  cat README.md 
+  208  git branch
+  209  git branch milkshake-flavours
+  210  clear
+  211  git log
+  212  git branch
+  213  git check milkshake-flavours
+  214  git checkout milkshake-flavours 
+  215  nano milkshake.md
+  216  git status
+  217  git add milkshake.md 
+  218  git commit -m "aded initial flavours"
+  219  git log
+  220  git commit -m "added initial flavours"
+  221  git log
+  222  git add milkshake.md 
+  223  git commit -m "added initial flavours"
+  224  git log
+  225  git status
+  226  git add milkshake.md 
+  227  git status
+  228  git branch
+  229  ls -a
+  230  git add milkshake.md 
+  231  git re milkshake.md
+  232  git remove milkshake.md
+  233  git rm milkshake
+  234  git rm milkshake
+  235  git rm milkshake.md
+  236  git add milkshakes.md
+  237  nano milkshakes.md
+  238  git status
+  239  git reset milkshake.md
+  240  git add milkshakes.md
+  241  git commit -m "added initials flavours"
+  242  git log
+  243  git branch
+  244  ls a-
+  245  git ls a-
+  246  git ls
+  247  ls
+  248  git checkout master
+  249  ls a-
+  250  ls -a
+  251  git branch History
+  252  git log
+  253  git branch
+  254  history > history.txt
+  255  git commit -m "added history"
+  256  git checkout milkshake-flavours 
+  257  git log
+  258  nano readme.md
+  259  git commit -m "random readme changes"
+  260  git checkout history
+  261  git cat read.me
+  262  cat readme
+  263  cat readme.md
+  264  rm readme.md
+  265  echo "booya" > README.md
+  266  git commit -m "rewrote readme"
+  267  git checkout master
+  268  ls
+  269  git log
+  270  git checkout milkshake-flavours 
+  271  ls
+  272  git log
+  273  git checkout history
+  274  ls
+  275  git log
+  276  git add history.txt
+  277  git commit -m "rewrote readme"
+  278  git log
+  279  git checkout master 
+  280  ls
+  281  git log
+  282  git checkout milkshake-flavours 
+  283  ls
+  284  git log
+  285  nano readme.md
+  286  pwd
+  287  cd desktop
+  288  cd git-basic-exercises/
+  289  git log
+  290  nano readme.md
+  291  nano README.md 
+  292  git add README.md 
+  293  git commit -m "random readme changes"
+  294  git checkout master
+  295  ls
+  296  git log
+  297  git checkout milkshake-flavours 
+  298  ls
+  299  git log
+  300  git checkout history
+  301  ls
+  302  git log
+  303  git add history.txt
+  304  git add history.txt
+  305  git commit -m "added history"
+  306  git log
+  307  git status
+  308  ls
+  309  history > history.txt
