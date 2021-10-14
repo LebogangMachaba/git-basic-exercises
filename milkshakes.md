@@ -1,5 +1,5 @@
 Banana
 Strawberry
 Chocolate
-vanilla
-blueberry
+Vanilla
+Blueberry
