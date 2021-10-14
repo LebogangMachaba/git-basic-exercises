@@ -252,3 +252,58 @@
   252  git log
   253  git branch
   254  history > history.txt
+  255  git commit -m "added history"
+  256  git checkout milkshake-flavours 
+  257  git log
+  258  nano readme.md
+  259  git commit -m "random readme changes"
+  260  git checkout history
+  261  git cat read.me
+  262  cat readme
+  263  cat readme.md
+  264  rm readme.md
+  265  echo "booya" > README.md
+  266  git commit -m "rewrote readme"
+  267  git checkout master
+  268  ls
+  269  git log
+  270  git checkout milkshake-flavours 
+  271  ls
+  272  git log
+  273  git checkout history
+  274  ls
+  275  git log
+  276  git add history.txt
+  277  git commit -m "rewrote readme"
+  278  git log
+  279  git checkout master 
+  280  ls
+  281  git log
+  282  git checkout milkshake-flavours 
+  283  ls
+  284  git log
+  285  nano readme.md
+  286  pwd
+  287  cd desktop
+  288  cd git-basic-exercises/
+  289  git log
+  290  nano readme.md
+  291  nano README.md 
+  292  git add README.md 
+  293  git commit -m "random readme changes"
+  294  git checkout master
+  295  ls
+  296  git log
+  297  git checkout milkshake-flavours 
+  298  ls
+  299  git log
+  300  git checkout history
+  301  ls
+  302  git log
+  303  git add history.txt
+  304  git add history.txt
+  305  git commit -m "added history"
+  306  git log
+  307  git status
+  308  ls
+  309  history > history.txt
